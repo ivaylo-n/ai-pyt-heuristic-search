@@ -1,4 +1,3 @@
-# This is a variant of the Game of Bones recipe given in the easyAI library
 
 from easyAI import TwoPlayersGame, id_solve, Human_Player, AI_Player
 from easyAI.AI import TT
